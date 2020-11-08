@@ -3,3 +3,5 @@ Introduction to Data Science project 2020
 # Members
 Patrik Pruunsild  
 Enri Täär
+# links
+https://www.kaggle.com/ahsen1330/us-police-shootings
