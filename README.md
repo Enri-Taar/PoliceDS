@@ -1,5 +1,5 @@
 # PoliceDS
 Introduction to Data Science project 2020
 # Members
-Patrik Pruunsild\n
+Patrik Pruunsild  
 Enri Täär
