@@ -5,4 +5,5 @@ Patrik Pruunsild
 Enri Täär
 # links
 https://www.kaggle.com/ahsen1330/us-police-shootings
+
 https://github.com/washingtonpost/data-police-shootings
